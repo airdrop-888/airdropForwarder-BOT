@@ -8,24 +8,24 @@ from telethon import TelegramClient, events # <--- PASTIKAN BARIS INI ADA
 # Ganti nilai-nilai di bawah ini dengan informasi Anda sendiri.
 
 # 1. Kredensial API dari my.telegram.org
-API_ID = 28458542  # Ganti dengan API ID Anda
-API_HASH = '77dc7875353d6153bfb160aa6b9ea0db' # Ganti dengan API Hash Anda
+API_ID = 28450000  # Ganti dengan API ID Anda
+API_HASH = '77dc7875353...' # Ganti dengan API Hash Anda
 
 # 2. Nama file sesi
 SESSION_NAME = 'my_user_session'
 
 # 3. ID Channel Sumber (gunakan ID numerik, bukan @username)
 SOURCE_CHANNELS = [
-    -1002260683452,  # Contoh untuk https://t.me/NTExhaust
-    -1002249763055,  # Contoh untuk https://t.me/AirdropInsiderID
-    -1001898254174,  # Contoh untuk https://t.me/getairdrop_id
-    -1001826082335,  # Contoh untuk https://t.me/airdropcloudJP
-    -1002019929029,  # Contoh untuk https://t.me/AirdropFamilyIDN
-    -1002016633508,  # Contoh untuk https://t.me/airdropfind
+    -10022...,  # Contoh untuk https://t.me/NTExhaust
+    -10022...,  # Contoh untuk https://t.me/AirdropInsiderID
+    -10022...,  # Contoh untuk https://t.me/getairdrop_id
+    -10022...,  # Contoh untuk https://t.me/airdropcloudJP
+    -10022...,  # Contoh untuk https://t.me/AirdropFamilyIDN
+    -10022...,  # Contoh untuk https://t.me/airdropfind
 ]
 
 # 4. ID Channel Tujuan (gunakan ID numerik)
-DESTINATION_CHANNEL = -1002293621107  # Contoh untuk https://t.me/airdroplocked
+DESTINATION_CHANNEL = -10022...,  # Contoh untuk https://t.me/airdroplocked
 
 # --- AKHIR DARI KONFIGURASI ---
 
